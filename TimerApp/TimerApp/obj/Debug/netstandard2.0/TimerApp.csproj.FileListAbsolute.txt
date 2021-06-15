@@ -1,0 +1,14 @@
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.csproj.AssemblyReference.cache
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.AssemblyInfoInputs.cache
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.AssemblyInfo.cs
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.csproj.CoreCompileInputs.cache
+C:\newProjects\TimerApp\TimerApp\TimerApp\bin\Debug\netstandard2.0\TimerApp.deps.json
+C:\newProjects\TimerApp\TimerApp\TimerApp\bin\Debug\netstandard2.0\TimerApp.dll
+C:\newProjects\TimerApp\TimerApp\TimerApp\bin\Debug\netstandard2.0\ref\TimerApp.dll
+C:\newProjects\TimerApp\TimerApp\TimerApp\bin\Debug\netstandard2.0\TimerApp.pdb
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.dll
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\ref\TimerApp.dll
+C:\newProjects\TimerApp\TimerApp\TimerApp\obj\Debug\netstandard2.0\TimerApp.pdb
